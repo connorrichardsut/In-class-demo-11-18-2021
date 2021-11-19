@@ -1,0 +1,39 @@
+style
+/*CSS Comment*/
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    /*color: red; */
+    background-color: ivory;
+}
+h1, h2, h3 {
+    font-weight: bold;
+    font-style: italic;
+    color: navy;
+    text-decoration: underline;
+    border-color: palegoldenrod;
+    border-style: groove;
+    /*padding-right: 100px;*/
+
+}
+.style1 {
+    color: blue;
+    text-decoration: underline;
+    font-weight: 16px;
+}
+
+richards {
+        font-style: italic;
+        font-size: 16px;
+        font
+}
+
+navi {
+    font-weight: bold;
+    font-style: italic;
+    color: navy;
+    text-decoration: underline;
+    border-color: orange;
+    border-style: groove;
+    /*padding-right: 100px;*/
+}
+style
