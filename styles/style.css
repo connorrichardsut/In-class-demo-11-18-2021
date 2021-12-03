@@ -4,6 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif; 
     /*color: red; */
     background-color: ivory;
+    color: slategray;
 }
 h1, h2, h3 {
     font-weight: bold;
@@ -21,13 +22,7 @@ h1, h2, h3 {
     font-weight: 16px;
 }
 
-richards {
-        font-style: italic;
-        font-size: 16px;
-        font
-}
-
-navi {
+nav {
     font-weight: bold;
     font-style: italic;
     color: navy;
@@ -36,4 +31,21 @@ navi {
     border-style: groove;
     /*padding-right: 100px;*/
 }
-style
+
+li {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+footer {
+    color: red;
+    background-color: black;
+    font-style: oblique;
+
+}
+
+.bold {
+    font-weight: bold;
+
+}
