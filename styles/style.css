@@ -13,6 +13,8 @@ h1, h2, h3 {
     text-decoration: underline;
     border-color: palegoldenrod;
     border-style: groove;
+    justify-content:space-evenly;
+    padding-right: 100px;
     /*padding-right: 100px;*/
 
 }
@@ -48,4 +50,13 @@ footer {
 .bold {
     font-weight: bold;
 
+}
+
+homebg { 
+    background-image: url();
+}
+
+.skillsbg {
+    background-image:url(../images/IMG_1072.JPG);
+    background-repeat: repeat;
 }
