@@ -60,3 +60,7 @@ homebg {
     background-image:url(../images/IMG_1072.JPG);
     background-repeat: repeat;
 }
+
+head {
+    top: 5px;
+}
